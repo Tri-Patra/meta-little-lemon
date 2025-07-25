@@ -480,13 +480,13 @@ footer>menu {
   }
 
   .testimonials-carousel {
-    display: block;
-    background-color: #edefee;
-    padding-bottom: 0;
+    display: none;
   }
 
   .testimonials-cards {
-    display: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
   }
 
   .testimonial-card>p {
