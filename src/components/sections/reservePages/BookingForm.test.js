@@ -77,9 +77,53 @@ describe("ReservationForm Component", () => {
     expect(commentsTextarea.value).toBe("No peanuts, please.");
   });
 
-  test("renders the Book Table button", () => {
-    const bookTableButton = screen.getByText(/Book Table/i);
-    expect(bookTableButton).toBeInTheDocument();
-    expect(bookTableButton.closest("a")).toHaveAttribute("href", "/confirmation");
+  test("shows error messages when fields are invalid and blurred", () => {
+    const firstNameInput = screen.getByLabelText(/First Name/i);
+    fireEvent.blur(firstNameInput);
+    expect(screen.getByText(/First name must be at least 2 characters/i)).toBeInTheDocument();
+
+    const lastNameInput = screen.getByLabelText(/Last Name/i);
+    fireEvent.blur(lastNameInput);
+    expect(screen.getByText(/Last name must be at least 2 characters/i)).toBeInTheDocument();
+
+    const emailInput = screen.getByLabelText(/Email/i);
+    fireEvent.blur(emailInput);
+    expect(screen.getByText(/Email must be at least 4 characters/i)).toBeInTheDocument();
+
+    const phoneInput = screen.getByLabelText(/Phone Number/i);
+    fireEvent.blur(phoneInput);
+    expect(screen.getByText(/Phone number must be at least 10 digits/i)).toBeInTheDocument();
+  });
+
+  test("updates state correctly when inputs are changed", () => {
+    const firstNameInput = screen.getByLabelText(/First Name/i);
+    fireEvent.change(firstNameInput, { target: { value: "John" } });
+    expect(firstNameInput.value).toBe("John");
+
+    const lastNameInput = screen.getByLabelText(/Last Name/i);
+    fireEvent.change(lastNameInput, { target: { value: "Doe" } });
+    expect(lastNameInput.value).toBe("Doe");
+
+    const emailInput = screen.getByLabelText(/Email/i);
+    fireEvent.change(emailInput, { target: { value: "john.doe@example.com" } });
+    expect(emailInput.value).toBe("john.doe@example.com");
+
+    const phoneInput = screen.getByLabelText(/Phone Number/i);
+    fireEvent.change(phoneInput, { target: { value: "1234567890" } });
+    expect(phoneInput.value).toBe("1234567890");
+
+    const peopleInput = screen.getByLabelText(/Number of People/i);
+    fireEvent.change(peopleInput, { target: { value: "3" } });
+    expect(peopleInput.value).toBe("3");
+  });
+
+  test("updates available times when date is changed", () => {
+    const dateInput = screen.getByLabelText(/Select Date/i);
+    fireEvent.change(dateInput, { target: { value: "2023-12-25" } });
+
+    const timeDropdown = screen.getByLabelText(/Select Time/i);
+    mockAvailableTimes.forEach((time) => {
+      expect(timeDropdown).toHaveTextContent(time);
+    });
   });
 });
