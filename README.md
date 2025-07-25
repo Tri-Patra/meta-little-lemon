@@ -68,4 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<img src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/food1.jpg' alt='test'>
+
+# ---------------------------------------------------------------------------------------
+
+# Project Name: Little Lemon
+
+## Description
+This project is a responsive web application designed to work seamlessly on both desktop and mobile devices.
+
+## Screenshots
+### Desktop View
+[Home Page]
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home1.png' alt='home1'>
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home2.png' alt='home2'>
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home3.png' alt='home3'>
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home4.png' alt='home4'>
+
+
+### Mobile View
+![Mobile View](assets/screenshots/)
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home1.png' alt='home1'>
+
+
+## Test Coverage
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/test-coverage.png' alt='test'>
