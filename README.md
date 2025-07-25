@@ -59,15 +59,22 @@ Ejecting gives full control over configuration files (Webpack, Babel, ESLint, et
 ### 📱 Mobile View
 
 **Home Page**  
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m1.png' alt='m1'><br>---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m2.png' alt='m2'><br>---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m3.png' alt='m3'><br>---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m4.png' alt='m4'><br>---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m5.png' alt='m5'><br>---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m1.png' alt='m1'><br>
+---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m2.png' alt='m2'><br>
+---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m3.png' alt='m3'><br>
+---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m4.png' alt='m4'><br>
+---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m5.png' alt='m5'><br>
+---
 
 **Reservation Page**  
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm1.png' alt='rm1'><br>---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm2.png' alt='rm2'><br>---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm1.png' alt='rm1'><br>
+---
+<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm2.png' alt='rm2'><br>
+---
 <img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm3.png' alt='rm3'><br>
 
 ---
