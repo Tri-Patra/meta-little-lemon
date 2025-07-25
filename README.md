@@ -45,60 +45,60 @@ Ejecting gives full control over configuration files (Webpack, Babel, ESLint, et
 ### 💻 Desktop View
 
 **Home Page**  
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home1.png' alt='home1'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home1.png' alt='home1'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home2.png' alt='home2'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home2.png' alt='home2'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home3.png' alt='home3'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home3.png' alt='home3'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home4.png' alt='home4'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/home4.png' alt='home4'>
 
 ---
 
 **Reservation Page**  
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r1.png' alt='r1'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r1.png' alt='r1'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r2.png' alt='r2'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r2.png' alt='r2'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r3.png' alt='r3'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r3.png' alt='r3'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r4.png' alt='r4'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/r4.png' alt='r4'>
 
 ---
 
 ### 📱 Mobile View
 
 **Home Page**  
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m1.png' alt='m1'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m1.png' alt='m1'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m2.png' alt='m2'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m2.png' alt='m2'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m3.png' alt='m3'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m3.png' alt='m3'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m4.png' alt='m4'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m4.png' alt='m4'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m5.png' alt='m5'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/m5.png' alt='m5'>
 
 ---
 
 **Reservation Page**  
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm1.png' alt='rm1'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm1.png' alt='rm1'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm2.png' alt='rm2'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm2.png' alt='rm2'>
 
 ---
-<img width='50%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm3.png' alt='rm3'>
+<img width='100%' src='https://github.com/Tri-Patra/meta-little-lemon/blob/main/src/assets/screenshots/rm3.png' alt='rm3'>
 
 ---
 
